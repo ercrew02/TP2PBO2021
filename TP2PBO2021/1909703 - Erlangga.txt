@@ -1,0 +1,22 @@
+
+link github : 
+https://github.com/ercrew02/TP1PBO2021/tree/main/TP2PBO2021
+
+Saya Erlangga mengerjakan TP2 dalam 
+mata kuliah DPBO untuk keberkahan Nya maka 
+saya tidak melakukan kecurangan seperti yang telah 
+di-spesifikasika. Aamiin. 
+
+Kesulitan:
+Kesulitan dalam mengenal tools dalam aplikasi netbeans
+Kesulitan dalam memahami bahasa java karena masih awwam
+
+Hal yang dipelajari:
+
+Mengenal tools dan cara menggunakannya dalam aplikasi netbeans
+
+Fitur:
+Semua fitur sudah dilaksanakan
+add barang
+detail barang
+info identitas
